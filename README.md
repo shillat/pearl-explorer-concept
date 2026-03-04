@@ -1,6 +1,6 @@
 # 🇺🇬 The Pearl Awaits: A Uganda Tourism Concept
 
-**A visual tribute to Uganda — the “Pearl of Africa.”**
+**A visual tribute to Uganda - the “Pearl of Africa.”**
 This premium web experience immerses users in Uganda’s natural beauty, culture, and travel potential through rich visuals and smooth interactions.
 
 > **Disclaimer:** This is a personal portfolio project to showcase web design and development skills. It is **not affiliated** with the Uganda Tourism Board or the Uganda Wildlife Education Centre (UWEC).
@@ -56,7 +56,7 @@ This premium web experience immerses users in Uganda’s natural beauty, culture
 ## 🖥️ Demo
 
 Live demo and screenshots:
-*(Add link to deployed site or media here)*
+*(https://pearl-explorer-concept.vercel.app/)*
 
 
 
